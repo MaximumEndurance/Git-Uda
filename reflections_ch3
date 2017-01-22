@@ -1,0 +1,9 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Ans: Local repo is my laboratory, i.e., I conduct tests there, add or delete features and then finally when I feel, that yeah, this would do just fine, then I push it; only the wholesome and proper changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks: when i dont want to bother the original author.
+Clones: I want a repo on GitHub on my computer for editing.
+branches: I am implementing a test feature or am thinking of a out-of-the-scropt story for my repo.
